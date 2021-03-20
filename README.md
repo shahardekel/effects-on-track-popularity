@@ -1,5 +1,11 @@
 # effects-on-track-popularity
 
+## 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
+## CAUSAL INFERENCE FINAL PROJECT
+### BY Shahar Dekel and Amit Feiner ( @shahardekel & @amitfeiner)
+## 📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚📚
+
+
 - Song recommendation apps are popular with listeners who want a convenient track selection interface.
 - It is easy to find the right music or podcast for every moment. The various applications often provide details about the artist's name, the name of track, the duration of the track and the popularity rating of the app users who listen to the tracks.
 - High-rated tracks may attract more listeners. Therefore, it is in the interest of the artist’s tracks that the overall rating of their track will be higher relative to competing tracks.
