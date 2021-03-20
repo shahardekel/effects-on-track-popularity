@@ -22,3 +22,6 @@
 - To get familiar with our results, first run data_analysis.py and then data_preparation.py.
 - To get the results for the X-Learner method- run X_learner.py.
 - To get the results for the Causal Forests method- run causal_forest.R.
+
+
+- The CSV can be found here: https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db
